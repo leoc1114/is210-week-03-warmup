@@ -2,6 +2,7 @@
 # _*_ coding: utf-8 _*_
 """TASK 12"""
 
+
 import decimal
 import fractions
 

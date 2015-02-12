@@ -2,11 +2,10 @@
 # -*- coding: utf-8 -*-
 """Repeat our danger."""
 
-import task_03
 
+import task_03
 
 KLAXON = task_03.KLAXON 
 KLAXON = KLAXON * 5
-
 
 print KLAXON 

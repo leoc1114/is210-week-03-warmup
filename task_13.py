@@ -11,4 +11,11 @@
     print task_12.FLOATVAL
 """
 
+
 import task_12
+
+FRAC_DEC_EQUAL = task_12.DECVAL == task_12.FRACVAL
+DEC_FLOAT_INEQUAL = task_12.DECVAL != task_12.FRACVAL
+
+print FRAC_DEC_EQUAL
+print DEC_FLOAT_INEQUAL
