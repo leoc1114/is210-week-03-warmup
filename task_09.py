@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """A computer that can build the question, is a good computer, more importantly
    if you have a good programmer.
-   
 """
 
 
