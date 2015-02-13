@@ -9,4 +9,4 @@ WORDS = task_06.WORDS
 
 GRANARIES_EXIST = 'granadries' in WORDS
 
-print GRANARIES_EXIST 
+print GRANARIES_EXIST
