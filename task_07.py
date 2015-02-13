@@ -7,6 +7,6 @@ import task_06
 
 WORDS = task_06.WORDS
 
-GRANARIES_EXIST = 'granadries' in WORDS
+GRANARIES_EXIST = 'granaries' in WORDS
 
 print GRANARIES_EXIST
